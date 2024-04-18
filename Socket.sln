@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Socket", "Socket.vcxproj", "{62C1B3D6-4907-4F99-B823-16F4A9ADEB67}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "avatars", "avatars", "{22E47725-CA57-4140-BC87-103C573EDEF1}"
+	ProjectSection(SolutionItems) = preProject
+		avatars\1.png = avatars\1.png
+		avatars\2.png = avatars\2.png
+		avatars\3.png = avatars\3.png
+		avatars\4.png = avatars\4.png
+		avatars\5.png = avatars\5.png
+		avatars\6.png = avatars\6.png
+		avatars\7.png = avatars\7.png
+		avatars\8.png = avatars\8.png
+		avatars\Chanwoo.jpg = avatars\Chanwoo.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{8F99CAA6-9A52-4835-805B-FFE99B189047}"
+	ProjectSection(SolutionItems) = preProject
+		css\style.css = css\style.css
+		css\utils.css = css\utils.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{76AF6129-33AC-4C82-BD6B-1BD6BEA9F582}"
+	ProjectSection(SolutionItems) = preProject
+		images\pexels-quang-nguyen-vinh-4544171.jpg = images\pexels-quang-nguyen-vinh-4544171.jpg
+		images\pexels-quang-nguyen-vinh-5118664.jpg = images\pexels-quang-nguyen-vinh-5118664.jpg
+		images\pexels-quang-nguyen-vinh-6136262.jpg = images\pexels-quang-nguyen-vinh-6136262.jpg
+		images\pexels-quang-nguyen-vinh-6877795.jpg = images\pexels-quang-nguyen-vinh-6877795.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "res", "res", "{00CCD5BD-64BC-411F-B65F-DEFCDA289318}"
+	ProjectSection(SolutionItems) = preProject
+		res\class_view.ico = res\class_view.ico
+		res\class_view_hc.ico = res\class_view_hc.ico
+		res\classview.bmp = res\classview.bmp
+		res\classview_hc.bmp = res\classview_hc.bmp
+		res\explorer.bmp = res\explorer.bmp
+		res\explorer_hc.bmp = res\explorer_hc.bmp
+		res\file_view.ico = res\file_view.ico
+		res\file_view_hc.ico = res\file_view_hc.ico
+		res\fileview.bmp = res\fileview.bmp
+		res\fileview_hc.bmp = res\fileview_hc.bmp
+		res\menuimages.bmp = res\menuimages.bmp
+		res\menuimages_hc.bmp = res\menuimages_hc.bmp
+		res\output_wnd.ico = res\output_wnd.ico
+		res\output_wnd_hc.ico = res\output_wnd_hc.ico
+		res\properties.bmp = res\properties.bmp
+		res\properties_hc.bmp = res\properties_hc.bmp
+		res\properties_wnd.ico = res\properties_wnd.ico
+		res\properties_wnd_hc.ico = res\properties_wnd_hc.ico
+		res\Socket.ico = res\Socket.ico
+		res\Socket.rc2 = res\Socket.rc2
+		res\SocketDoc.ico = res\SocketDoc.ico
+		res\sort.bmp = res\sort.bmp
+		res\sort_hc.bmp = res\sort_hc.bmp
+		res\Toolbar.bmp = res\Toolbar.bmp
+		res\Toolbar256.bmp = res\Toolbar256.bmp
+		res\userimages.bmp = res\userimages.bmp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C1B3D6-4907-4F99-B823-16F4A9ADEB67}.Debug|x64.ActiveCfg = Debug|x64
+		{62C1B3D6-4907-4F99-B823-16F4A9ADEB67}.Debug|x64.Build.0 = Debug|x64
+		{62C1B3D6-4907-4F99-B823-16F4A9ADEB67}.Debug|x86.ActiveCfg = Debug|Win32
+		{62C1B3D6-4907-4F99-B823-16F4A9ADEB67}.Debug|x86.Build.0 = Debug|Win32
+		{62C1B3D6-4907-4F99-B823-16F4A9ADEB67}.Release|x64.ActiveCfg = Release|x64
+		{62C1B3D6-4907-4F99-B823-16F4A9ADEB67}.Release|x64.Build.0 = Release|x64
+		{62C1B3D6-4907-4F99-B823-16F4A9ADEB67}.Release|x86.ActiveCfg = Release|Win32
+		{62C1B3D6-4907-4F99-B823-16F4A9ADEB67}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7D25588-AF5F-45F0-B499-CCAD288B7B95}
+	EndGlobalSection
+EndGlobal
